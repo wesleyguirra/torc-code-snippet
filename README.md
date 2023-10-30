@@ -35,7 +35,7 @@ Clone the repository to your local machine.
 
 
 ```bash
-git clone https://github.com/wesguirra/torc-code-snippet.git
+git clone https://github.com/wesleyguirra/torc-code-snippet.git
 ```
 
 # Usage

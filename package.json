@@ -6,7 +6,7 @@
     "test": "node test.js"
   },
   "repository": {
-    "url": "https://github.com/wesguirra/torc-code-snippet"
+    "url": "https://github.com/wesleyguirra/torc-code-snippet"
   },
   "keywords": [],
   "author": "Wes Guirra",
