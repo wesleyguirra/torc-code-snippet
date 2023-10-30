@@ -1,0 +1,14 @@
+{
+  "name": "torc-code-snippet",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "url": "https://github.com/wesguirra/torc-code-snippet"
+  },
+  "keywords": [],
+  "author": "Wes Guirra",
+  "license": "ISC"
+}
